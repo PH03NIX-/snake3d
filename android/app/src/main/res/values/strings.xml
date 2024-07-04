@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">snake3d</string>
+    <string name="title_activity_main">snake3d</string>
+    <string name="package_name">com.snake3d.app</string>
+    <string name="custom_url_scheme">com.snake3d.app</string>
+</resources>
